@@ -32,4 +32,4 @@ A **real-time AI-powered surveillance system** for monitoring, detecting, and co
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/areebxy/DX TECHIES
+git clone https://github.com/areebxy/DX-TECHIES.git
